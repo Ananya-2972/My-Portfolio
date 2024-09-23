@@ -6,7 +6,7 @@ As a dedicated web developer, I have built a solid foundation in front-end techn
 
 Throughout my career, I have achieved several key milestones that highlight my dedication to excellence. I demonstrating my expertise and commitment to continuous learning. My experience also includes participating in hackathons, where I had the opportunity to innovate under pressure and collaborate with diverse teams, earning recognition for my contributions.
 
-To see more of my work and experience my projects firsthand, I invite you to visit my live portfolio at [(http://127.0.0.1:5500/)]. Thank you for taking the time to explore my portfolio. I look forward to connecting with you and collaborating on exciting projects in the future!
+To see more of my work and experience my projects firsthand, I invite you to visit my live portfolio. Thank you for taking the time to explore my portfolio. I look forward to connecting with you and collaborating on exciting projects in the future!
 
 ![My_portfolio](https://github.com/user-attachments/assets/b66f703a-cfc0-4a44-9aa5-628fd7113f15)
 
